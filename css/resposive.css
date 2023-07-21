@@ -1,0 +1,10 @@
+@media (max-width:500px){
+    a{
+
+        max-width: 300px;
+        margin-top: 2px;
+        flex-direction: column-reverse;
+    }
+
+
+}   

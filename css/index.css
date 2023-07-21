@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+ul li a {
+    display: flex;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: hsl(321, 93%, 50%);
+    background-color: #F8F9FA;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 1.5s ease;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover {
+    background-color: hsl(321, 93%, 50%);
+    color: #FFF;
+}
